@@ -2023,7 +2023,7 @@ p {
   }
 
   .content5 .contentBx3 a {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 896px) and (min-width: 414px) {
@@ -2041,7 +2041,7 @@ p {
   }
 
   .content5 .contentBx3 a {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 @media only screen and (max-width: 740px) and (min-width: 360px) {
@@ -2067,7 +2067,7 @@ p {
   }
 
   .content5 .contentBx3 a {
-    font-size: 10px;
+    font-size: 12px;
   }
   .scroll-down {
     position: absolute;
@@ -2129,7 +2129,7 @@ p {
     font-size: 20px;
   }
   .content5 .contentBx3 a {
-    font-size: 15px;
+    font-size: 17px;
   }
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) {
@@ -2174,7 +2174,7 @@ p {
     font-size: 25px;
   }
   .content5 .contentBx3 a {
-    font-size: 15px;
+    font-size: 17px;
   }
   .men {
     top: 10%;
